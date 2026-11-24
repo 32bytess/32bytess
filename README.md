@@ -1,3 +1,6 @@
+<img align="right"
+src="https://visitor-badge.laobi.icu/badge?page_id=32bytess.visitor-badge&left_text=visitors&right_color=%23a51d2d">
+<br />
 <h1 align="center">Hi, I'm 32Bytess</h1>
 
 <p align="center">
